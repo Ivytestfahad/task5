@@ -1,0 +1,22 @@
+thead th {
+    color: white;
+    background-color: lightgreen; 
+    
+  }
+  
+  
+  tbody td {
+    background-color: lightgreen; 
+    
+
+  }
+  .centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    border-radius: 10px;
+    border-collapse: collapse;
+  }
+  
+ 
